@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/bathroom-vanities-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   affiliateTag: "bestbathroomvanities-20",
-  gaId: "",
+  gaId: "G-VM0QPH4BGB",
   colors: {
     primary: "#37474F",
     primaryLight: "#607D8B",
