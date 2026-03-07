@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "best-bathroom-vanities",
+    "title": "Best Bathroom Vanities of 2026: Expert Tested & Reviewed",
+    "description": "Discover the 7 best bathroom vanities of 2026. From budget-friendly to premium solid wood options with sinks for every style.",
+    "image": "images/hero-best-bathroom-vanities.png",
+    "date": "2026-03-07",
+    "category": "Roundup",
+    "featured": true,
+    "readingTime": "14 min"
+  },
+  {
+    "slug": "best-small-bathroom-vanities",
+    "title": "Best Small Bathroom Vanities for Tight Spaces (2026)",
+    "description": "Top 5 small bathroom vanities from 18 to 24 inches. Space-saving designs that maximize storage in compact bathrooms.",
+    "image": "images/hero-best-small-bathroom-vanities.png",
+    "date": "2026-03-07",
+    "category": "Roundup",
+    "featured": true,
+    "readingTime": "12 min"
+  },
+  {
+    "slug": "best-floating-bathroom-vanities",
+    "title": "Best Floating Bathroom Vanities for Modern Bathrooms (2026)",
+    "description": "Top 5 wall-mounted floating vanities that create a sleek, modern look. Expert tested from 18 to 30 inches.",
+    "image": "images/hero-best-floating-bathroom-vanities.png",
+    "date": "2026-03-07",
+    "category": "Roundup",
+    "featured": true,
+    "readingTime": "13 min"
+  },
+  {
+    "slug": "single-vs-double-sink-vanity",
+    "title": "Single vs Double Sink Vanity: Which Is Right for You?",
+    "description": "Complete comparison of single and double sink vanities. Space requirements, costs, pros and cons for every bathroom.",
+    "image": "images/hero-single-vs-double-sink-vanity.png",
+    "date": "2026-03-07",
+    "category": "Comparison",
+    "featured": false,
+    "readingTime": "11 min"
+  },
+  {
+    "slug": "how-to-choose-bathroom-vanity",
+    "title": "How to Choose the Right Bathroom Vanity: Complete Guide",
+    "description": "Step-by-step guide to choosing the perfect bathroom vanity. Sizes, materials, countertops, sinks, and budget planning.",
+    "image": "images/hero-how-to-choose-bathroom-vanity.png",
+    "date": "2026-03-07",
+    "category": "Guide",
+    "featured": false,
+    "readingTime": "15 min"
+  }
+]

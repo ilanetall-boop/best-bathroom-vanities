@@ -1,0 +1,31 @@
+# Static pages -- clean URLs
+/index.html  /  301
+/index/  /  301
+/articles.html  /articles  301
+/articles/  /articles  301
+/comparisons.html  /comparisons  301
+/comparisons/  /comparisons  301
+/about.html  /about  301
+/about/  /about  301
+/contact.html  /contact  301
+/contact/  /contact  301
+/privacy.html  /privacy  301
+/privacy/  /privacy  301
+/terms.html  /terms  301
+/terms/  /terms  301
+/disclosure.html  /disclosure  301
+/disclosure/  /disclosure  301
+/how-we-research.html  /how-we-research  301
+/how-we-research/  /how-we-research  301
+
+# Articles
+/best-bathroom-vanities/  /best-bathroom-vanities  301
+/best-bathroom-vanities.html  /best-bathroom-vanities  301
+/best-small-bathroom-vanities/  /best-small-bathroom-vanities  301
+/best-small-bathroom-vanities.html  /best-small-bathroom-vanities  301
+/best-floating-bathroom-vanities/  /best-floating-bathroom-vanities  301
+/best-floating-bathroom-vanities.html  /best-floating-bathroom-vanities  301
+/single-vs-double-sink-vanity/  /single-vs-double-sink-vanity  301
+/single-vs-double-sink-vanity.html  /single-vs-double-sink-vanity  301
+/how-to-choose-bathroom-vanity/  /how-to-choose-bathroom-vanity  301
+/how-to-choose-bathroom-vanity.html  /how-to-choose-bathroom-vanity  301
