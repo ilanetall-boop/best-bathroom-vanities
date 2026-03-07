@@ -4,7 +4,7 @@
  */
 window.SITE_CONFIG = {
   name: "Best Bathroom Vanities",
-  domain: "best-bathroom-vanities.com",
+  domain: "bestbathroomvanities.com",
   tagline: "Expert reviews & buying guides for the perfect bathroom vanity",
   logo: "images/bathroom-vanities-logo.svg",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
