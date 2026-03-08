@@ -715,8 +715,8 @@
     }
 
     function startHeroRotation() {
-      if (featuredArticles.length <= 1) return;
-      heroInterval = setInterval(nextHero, 6000);
+      // Manual navigation only (dots) - no auto-rotation
+      return;
     }
 
     function updateStats(articles) {
