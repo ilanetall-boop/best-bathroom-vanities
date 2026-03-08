@@ -734,7 +734,7 @@
       });
     }
 
-    fetch('articles.json')
+    fetch('articles.json?v=3')
       .then(r => r.json())
       .then(articles => {
         articles.sort((a, b) => new Date(b.date) - new Date(a.date));
