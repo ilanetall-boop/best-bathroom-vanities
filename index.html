@@ -487,7 +487,7 @@
     <div class="container">
       <div class="hero-grid">
         <div>
-          <div style="width:100%;aspect-ratio:800/240;background:rgba(255,255,255,.1);border-radius:.75rem;display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,.5);font-size:1.2rem;">Hero image coming soon</div>
+          <img id="hero-image" class="hero-image" src="images/hero-best-modern-bathroom-vanities.png" alt="Best Bathroom Vanities" width="800" height="240" loading="eager">
         </div>
         <div class="hero-content" id="hero-content">
           <div class="hero-meta">
@@ -683,7 +683,9 @@
           dot.classList.toggle('active', i === index);
         });
 
-        content.classList.remove('fade-out');
+        var heroImg = document.getElementById('hero-image');
+      if (heroImg && article.image) { heroImg.src = article.image; heroImg.alt = article.title; }
+      content.classList.remove('fade-out');
       }, 300);
 
       currentHeroIndex = index;
