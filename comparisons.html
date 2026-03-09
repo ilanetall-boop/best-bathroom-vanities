@@ -52,7 +52,7 @@
     </div>
   </section>
   <footer id="site-footer"></footer>
-  <script src="components/site-components.js?v=3"></script>
+  <script src="components/site-components.js?v=4"></script>
   <script>
     fetch('articles.json').then(r=>r.json()).then(articles => {
       const comps = articles.filter(a => a.category === 'Comparisons').sort((a,b) => new Date(b.publishDate)-new Date(a.date));
