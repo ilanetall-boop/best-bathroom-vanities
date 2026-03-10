@@ -763,28 +763,6 @@
       });
     }
 
-    window.addEventListener('load', function() {
-      if (!localStorage.getItem('analytics-disabled')) {
-        var gaId = (window.SITE_CONFIG && window.SITE_CONFIG.gaId) || '';
-        if (!gaId) return;
-        var script = document.createElement('script');
-        script.async = true;
-        script.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
-        document.head.appendChild(script);
-
-        script.onload = function() {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', gaId, {
-            'page_title': document.title,
-            'page_location': window.location.href,
-            'send_page_view': true
-          });
-          window.gtag = gtag;
-        };
-      }
-    });
   </script>
 </body>
 </html>
