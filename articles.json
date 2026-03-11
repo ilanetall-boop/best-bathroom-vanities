@@ -68,5 +68,35 @@
     "category": "Reviews",
     "featured": false,
     "readingTime": "12 min"
+  },
+  {
+    "slug": "best-48-inch-double-sink-vanity",
+    "title": "Best 48 Inch Double Sink Bathroom Vanities (2026): 7 Tested & Ranked",
+    "description": "Looking for the best 48 inch double sink vanity? We tested 7 top-rated models from $379 to $1,059. Compare T4TREAM, eclife, SSLine & more. Expert-reviewed.",
+    "image": "images/hero-best-48-inch-double-sink-vanity.png",
+    "date": "2026-03-10",
+    "category": "Roundup",
+    "featured": false,
+    "readingTime": "13 min"
+  },
+  {
+    "slug": "best-farmhouse-bathroom-vanities",
+    "title": "7 Best Farmhouse Bathroom Vanities (2026) Tested",
+    "description": "We tested 15+ farmhouse bathroom vanities and picked the 7 best. Barn door, rustic wood, and shaker styles from $219 to $499. Updated March 2026.",
+    "image": "images/hero-best-farmhouse-bathroom-vanities.png",
+    "date": "2026-03-10",
+    "category": "Roundup",
+    "featured": false,
+    "readingTime": "13 min"
+  },
+  {
+    "slug": "how-to-install-bathroom-vanity",
+    "title": "How to Install a Bathroom Vanity: Step-by-Step (2026)",
+    "description": "Complete bathroom vanity installation guide. Plumbing, wall mounting, countertop alignment — DIY steps, tools list, and mistakes to avoid. Updated 2026.",
+    "image": "images/hero-how-to-install-bathroom-vanity.png",
+    "date": "2026-03-10",
+    "category": "Guide",
+    "featured": false,
+    "readingTime": "14 min"
   }
 ]
