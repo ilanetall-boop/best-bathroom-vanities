@@ -110,5 +110,29 @@
     "category": "Reviews",
     "template": "roundup",
     "featured": true
+  },
+  {
+    "title": "Bathroom Vanity With Top vs Without: Which Should You Buy? (2026)",
+    "slug": "vanity-with-vs-without-top",
+    "summary": "Complete comparison of bathroom vanities with and without countertops. Cost breakdown, pros and cons, materials guide, and when to choose each option.",
+    "image": "images/hero-vanity-with-vs-without-top.webp",
+    "imageWidth": 400,
+    "imageHeight": 228,
+    "publishDate": "2026-03-12",
+    "category": "Guide",
+    "template": "guide",
+    "featured": false
+  },
+  {
+    "title": "RTA vs Pre-Assembled Bathroom Vanities: Complete Comparison (2026)",
+    "slug": "rta-vs-pre-assembled-vanity",
+    "summary": "RTA vs pre-assembled bathroom vanities compared. Cost, assembly time, quality, shipping, and which option fits your bathroom project.",
+    "image": "images/hero-rta-vs-pre-assembled-vanity.webp",
+    "imageWidth": 400,
+    "imageHeight": 228,
+    "publishDate": "2026-03-12",
+    "category": "Comparison",
+    "template": "versus",
+    "featured": false
   }
 ]
