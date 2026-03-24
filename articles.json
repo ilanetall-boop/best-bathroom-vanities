@@ -7,7 +7,8 @@
     "date": "2026-03-08",
     "category": "Roundup",
     "featured": true,
-    "readingTime": "13 min"
+    "readingTime": "13 min",
+    "summary": "7 best modern bathroom vanities tested for style, storage, and build quality. Fluted, floating, and freestanding designs from $149 to $1,059."
   },
   {
     "slug": "best-bathroom-vanities",
@@ -17,7 +18,8 @@
     "date": "2026-03-07",
     "category": "Roundup",
     "featured": true,
-    "readingTime": "14 min"
+    "readingTime": "14 min",
+    "summary": "Discover the 7 best bathroom vanities of 2026. From budget-friendly to premium solid wood options with sinks for every style."
   },
   {
     "slug": "best-small-bathroom-vanities",
@@ -27,7 +29,8 @@
     "date": "2026-03-07",
     "category": "Roundup",
     "featured": true,
-    "readingTime": "12 min"
+    "readingTime": "12 min",
+    "summary": "Top 5 small bathroom vanities from 18 to 24 inches. Space-saving designs that maximize storage in compact bathrooms."
   },
   {
     "slug": "best-floating-bathroom-vanities",
@@ -37,7 +40,8 @@
     "date": "2026-03-07",
     "category": "Roundup",
     "featured": false,
-    "readingTime": "13 min"
+    "readingTime": "13 min",
+    "summary": "Top 5 wall-mounted floating vanities that create a sleek, modern look. Expert tested from 18 to 30 inches."
   },
   {
     "slug": "single-vs-double-sink-vanity",
@@ -47,7 +51,8 @@
     "date": "2026-03-07",
     "category": "Comparison",
     "featured": false,
-    "readingTime": "11 min"
+    "readingTime": "11 min",
+    "summary": "Complete comparison of single and double sink vanities. Space requirements, costs, pros and cons for every bathroom."
   },
   {
     "slug": "how-to-choose-bathroom-vanity",
@@ -57,17 +62,19 @@
     "date": "2026-03-07",
     "category": "Guide",
     "featured": false,
-    "readingTime": "15 min"
+    "readingTime": "15 min",
+    "summary": "Step-by-step guide to choosing the perfect bathroom vanity. Sizes, materials, countertops, sinks, and budget planning."
   },
   {
     "slug": "best-bathroom-vanities-under-500",
     "title": "7 Best Bathroom Vanities Under $500: Style on a Budget (2026)",
-    "description": "Upgrade your bathroom without breaking the bank. We compared 15+ vanities under $500 and found 7 that deliver real quality â€” from $149 to $499.",
+    "description": "Upgrade your bathroom without breaking the bank. We compared 15+ vanities under $500 and found 7 that deliver real quality — from $149 to $499.",
     "image": "images/hero-best-bathroom-vanities-under-500.png",
     "date": "2026-03-09",
     "category": "Reviews",
     "featured": false,
-    "readingTime": "12 min"
+    "readingTime": "12 min",
+    "summary": "Upgrade your bathroom without breaking the bank. We compared 15+ vanities under $500 and found 7 that deliver real quality — from $149 to $499."
   },
   {
     "slug": "best-48-inch-double-sink-vanity",
@@ -77,7 +84,8 @@
     "date": "2026-03-10",
     "category": "Roundup",
     "featured": false,
-    "readingTime": "13 min"
+    "readingTime": "13 min",
+    "summary": "Looking for the best 48 inch double sink vanity? We tested 7 top-rated models from $379 to $1,059. Compare T4TREAM, eclife, SSLine & more. Expert-reviewed."
   },
   {
     "slug": "best-farmhouse-bathroom-vanities",
@@ -87,17 +95,19 @@
     "date": "2026-03-10",
     "category": "Roundup",
     "featured": false,
-    "readingTime": "13 min"
+    "readingTime": "13 min",
+    "summary": "We tested 15+ farmhouse bathroom vanities and picked the 7 best. Barn door, rustic wood, and shaker styles from $219 to $499. Updated March 2026."
   },
   {
     "slug": "how-to-install-bathroom-vanity",
     "title": "How to Install a Bathroom Vanity: Step-by-Step (2026)",
-    "description": "Complete bathroom vanity installation guide. Plumbing, wall mounting, countertop alignment â€” DIY steps, tools list, and mistakes to avoid. Updated 2026.",
+    "description": "Complete bathroom vanity installation guide. Plumbing, wall mounting, countertop alignment — DIY steps, tools list, and mistakes to avoid. Updated 2026.",
     "image": "images/hero-how-to-install-bathroom-vanity.webp",
     "date": "2026-03-10",
     "category": "Guide",
     "featured": false,
-    "readingTime": "14 min"
+    "readingTime": "14 min",
+    "summary": "Complete bathroom vanity installation guide. Plumbing, wall mounting, countertop alignment — DIY steps, tools list, and mistakes to avoid. Updated 2026."
   },
   {
     "title": "Best Small Bathroom Vanity 18-20 Inch: Top 5 Compact Picks (2026)",
@@ -109,7 +119,8 @@
     "publishDate": "2026-03-11",
     "category": "Reviews",
     "template": "roundup",
-    "featured": true
+    "featured": true,
+    "description": "The 5 best ultra-compact 18-20 inch bathroom vanities for tiny bathrooms, half baths, and powder rooms. Space-saving solutions that don t sacrifice style."
   },
   {
     "title": "Bathroom Vanity With Top vs Without: Which Should You Buy? (2026)",
@@ -121,7 +132,8 @@
     "publishDate": "2026-03-12",
     "category": "Guide",
     "template": "guide",
-    "featured": false
+    "featured": false,
+    "description": "Complete comparison of bathroom vanities with and without countertops. Cost breakdown, pros and cons, materials guide, and when to choose each option."
   },
   {
     "title": "RTA vs Pre-Assembled Bathroom Vanities: Complete Comparison (2026)",
@@ -133,7 +145,8 @@
     "publishDate": "2026-03-12",
     "category": "Comparison",
     "template": "versus",
-    "featured": false
+    "featured": false,
+    "description": "RTA vs pre-assembled bathroom vanities compared. Cost, assembly time, quality, shipping, and which option fits your bathroom project."
   },
   {
     "slug": "best-36-inch-bathroom-vanities",
@@ -143,6 +156,7 @@
     "publishDate": "2026-03-23",
     "template": "roundup",
     "category": "36-Inch",
-    "featured": true
+    "featured": true,
+    "description": "The 36-inch vanity is the most popular standard size. We tested 7 top picks from ARIEL, T4TREAM, and AMERLIFE for every style and budget."
   }
 ]
