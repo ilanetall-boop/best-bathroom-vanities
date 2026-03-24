@@ -78,7 +78,7 @@
       return `<article class="article-card">
         <a href="${a.slug}"><img src="${a.image}" alt="${a.title}" width="400" height="192" loading="lazy" decoding="async"></a>
         <div class="article-card-content">
-          <div class="article-card-meta"><span class="tag ${getTagClass(a.category)}">${a.category}</span><span class="article-card-date">${formatDate(a.date)}</span></div>
+          <div class="article-card-meta"><span class="tag ${getTagClass(a.category)}">${a.category}</span><span class="article-card-date">${formatDate(a.date||a.publishDate)}</span></div>
           <h3><a href="${a.slug}">${a.title}</a></h3>
           <p>${a.description}</p>
           <a href="${a.slug}" class="read-more">Read article &rarr;</a>
@@ -91,7 +91,7 @@
       grid.innerHTML = f.length ? f.map(createCard).join('') : '<div class="no-results"><p>No articles yet. Check back soon!</p></div>';
     }
     fetch('articles.json').then(r=>r.json()).then(articles => {
-      articles.sort((a,b) => new Date(b.publishDate)-new Date(a.date));
+      articles.sort((a,b) => new Date(b.date||b.publishDate)-new Date(a.date||a.publishDate));
       allArticles = articles;
       render('all');
       document.querySelectorAll('.filter-btn').forEach(btn => {

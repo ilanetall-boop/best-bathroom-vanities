@@ -55,7 +55,7 @@
   <script src="components/site-components.js?v=4"></script>
   <script>
     fetch('articles.json').then(r=>r.json()).then(articles => {
-      const comps = articles.filter(a => a.category === 'Comparisons').sort((a,b) => new Date(b.publishDate)-new Date(a.date));
+      const comps = articles.filter(a => a.category === 'Comparisons').sort((a,b) => new Date(b.date||b.publishDate)-new Date(a.date||a.publishDate));
       const grid = document.getElementById('articles-grid');
       if (comps.length === 0) { grid.innerHTML = '<div class="no-results"><p>No comparisons yet. Check back soon!</p></div>'; return; }
       grid.innerHTML = comps.map(a => `<article class="article-card">

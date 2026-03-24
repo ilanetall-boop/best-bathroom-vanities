@@ -553,7 +553,7 @@
           </div>
           <div class="about-stats">
             <div class="stat">
-              <span class="stat-number" id="stat-articles">0</span>
+              <span class="stat-number" id="stat-articles">14</span>
               <span class="stat-label">Articles</span>
             </div>
             <div class="stat">
@@ -608,7 +608,7 @@
           <div class="article-card-content">
             <div class="article-card-meta">
               <span class="tag ${getTagClass(article.category)}">${article.category}</span>
-              <span class="article-card-date">${formatDate(article.date)}</span>
+              <span class="article-card-date">${formatDate(article.date||article.publishDate)}</span>
             </div>
             <h3><a href="${article.slug}">${article.title}</a></h3>
             <p>${article.description}</p>
@@ -698,7 +698,7 @@
     fetch('articles.json?v=4')
       .then(r => r.json())
       .then(articles => {
-        articles.sort((a, b) => new Date(b.date) - new Date(a.date));
+        articles.sort((a, b) => new Date(b.date||b.publishDate) - new Date(a.date||a.publishDate));
         allArticles = articles;
 
         // Featured articles (max 3 for Editor's Picks + Hero)
