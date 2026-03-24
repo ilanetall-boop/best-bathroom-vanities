@@ -134,5 +134,15 @@
     "category": "Comparison",
     "template": "versus",
     "featured": false
+  },
+  {
+    "slug": "best-36-inch-bathroom-vanities",
+    "title": "7 Best 36-Inch Bathroom Vanities for Every Style and Budget (2026)",
+    "summary": "The 36-inch vanity is the most popular standard size. We tested 7 top picks from ARIEL, T4TREAM, and AMERLIFE for every style and budget.",
+    "image": "images/hero-best-36-inch-bathroom-vanities.png",
+    "publishDate": "2026-03-23",
+    "template": "roundup",
+    "category": "36-Inch",
+    "featured": true
   }
 ]
