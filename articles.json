@@ -16,23 +16,25 @@
     "slug": "best-modern-bathroom-vanities",
     "title": "Best Modern Bathroom Vanities for Contemporary Homes (2026)",
     "description": "7 best modern bathroom vanities tested for style, storage, and build quality. Fluted, floating, and freestanding designs from $149 to $1,059.",
-    "image": "images/hero-homepage-vanity.jpg",
+    "image": "images/hero-homepage-vanity.webp",
     "date": "2026-03-08",
     "category": "Roundup",
     "featured": true,
     "readingTime": "13 min",
-    "summary": "7 best modern bathroom vanities tested for style, storage, and build quality. Fluted, floating, and freestanding designs from $149 to $1,059."
+    "summary": "7 best modern bathroom vanities tested for style, storage, and build quality. Fluted, floating, and freestanding designs from $149 to $1,059.",
+    "template": "roundup"
   },
   {
     "slug": "best-bathroom-vanities",
     "title": "Best Bathroom Vanities of 2026: Expert Tested & Reviewed",
     "description": "Discover the 7 best bathroom vanities of 2026. From budget-friendly to premium solid wood options with sinks for every style.",
-    "image": "images/hero-best-bathroom-vanities.jpg",
+    "image": "images/hero-best-bathroom-vanities.webp",
     "date": "2026-03-07",
     "category": "Roundup",
     "featured": true,
     "readingTime": "14 min",
-    "summary": "Discover the 7 best bathroom vanities of 2026. From budget-friendly to premium solid wood options with sinks for every style."
+    "summary": "Discover the 7 best bathroom vanities of 2026. From budget-friendly to premium solid wood options with sinks for every style.",
+    "template": "roundup"
   },
   {
     "slug": "best-small-bathroom-vanities",
@@ -43,51 +45,56 @@
     "category": "Roundup",
     "featured": true,
     "readingTime": "12 min",
-    "summary": "Top 5 small bathroom vanities from 18 to 24 inches. Space-saving designs that maximize storage in compact bathrooms."
+    "summary": "Top 5 small bathroom vanities from 18 to 24 inches. Space-saving designs that maximize storage in compact bathrooms.",
+    "template": "roundup"
   },
   {
     "slug": "best-floating-bathroom-vanities",
     "title": "Best Floating Bathroom Vanities for Modern Bathrooms (2026)",
     "description": "Top 5 wall-mounted floating vanities that create a sleek, modern look. Expert tested from 18 to 30 inches.",
-    "image": "images/hero-best-floating-bathroom-vanities.jpg",
+    "image": "images/hero-best-floating-bathroom-vanities.webp",
     "date": "2026-03-07",
     "category": "Roundup",
     "featured": false,
     "readingTime": "13 min",
-    "summary": "Top 5 wall-mounted floating vanities that create a sleek, modern look. Expert tested from 18 to 30 inches."
+    "summary": "Top 5 wall-mounted floating vanities that create a sleek, modern look. Expert tested from 18 to 30 inches.",
+    "template": "roundup"
   },
   {
     "slug": "single-vs-double-sink-vanity",
     "title": "Single vs Double Sink Vanity: Which Is Right for You?",
     "description": "Complete comparison of single and double sink vanities. Space requirements, costs, pros and cons for every bathroom.",
-    "image": "images/hero-single-vs-double-sink-vanity.jpg",
+    "image": "images/hero-single-vs-double-sink-vanity.webp",
     "date": "2026-03-07",
     "category": "Comparison",
     "featured": false,
     "readingTime": "11 min",
-    "summary": "Complete comparison of single and double sink vanities. Space requirements, costs, pros and cons for every bathroom."
+    "summary": "Complete comparison of single and double sink vanities. Space requirements, costs, pros and cons for every bathroom.",
+    "template": "versus"
   },
   {
     "slug": "how-to-choose-bathroom-vanity",
     "title": "How to Choose the Right Bathroom Vanity: Complete Guide",
     "description": "Step-by-step guide to choosing the perfect bathroom vanity. Sizes, materials, countertops, sinks, and budget planning.",
-    "image": "images/hero-how-to-choose-bathroom-vanity.jpg",
+    "image": "images/hero-how-to-choose-bathroom-vanity.webp",
     "date": "2026-03-07",
     "category": "Guide",
     "featured": false,
     "readingTime": "15 min",
-    "summary": "Step-by-step guide to choosing the perfect bathroom vanity. Sizes, materials, countertops, sinks, and budget planning."
+    "summary": "Step-by-step guide to choosing the perfect bathroom vanity. Sizes, materials, countertops, sinks, and budget planning.",
+    "template": "how-to"
   },
   {
     "slug": "best-bathroom-vanities-under-500",
     "title": "7 Best Bathroom Vanities Under $500: Style on a Budget (2026)",
     "description": "Upgrade your bathroom without breaking the bank. We compared 15+ vanities under $500 and found 7 that deliver real quality — from $149 to $499.",
-    "image": "images/hero-best-bathroom-vanities-under-500.jpg",
+    "image": "images/hero-best-bathroom-vanities-under-500.webp",
     "date": "2026-03-09",
     "category": "Reviews",
     "featured": false,
     "readingTime": "12 min",
-    "summary": "Upgrade your bathroom without breaking the bank. We compared 15+ vanities under $500 and found 7 that deliver real quality — from $149 to $499."
+    "summary": "Upgrade your bathroom without breaking the bank. We compared 15+ vanities under $500 and found 7 that deliver real quality — from $149 to $499.",
+    "template": "roundup"
   },
   {
     "slug": "best-48-inch-double-sink-vanity",
@@ -98,18 +105,20 @@
     "category": "Roundup",
     "featured": false,
     "readingTime": "13 min",
-    "summary": "Looking for the best 48 inch double sink vanity? We tested 7 top-rated models from $379 to $1,059. Compare T4TREAM, eclife, SSLine & more. Expert-reviewed."
+    "summary": "Looking for the best 48 inch double sink vanity? We tested 7 top-rated models from $379 to $1,059. Compare T4TREAM, eclife, SSLine & more. Expert-reviewed.",
+    "template": "roundup"
   },
   {
     "slug": "best-farmhouse-bathroom-vanities",
     "title": "7 Best Farmhouse Bathroom Vanities (2026) Tested",
     "description": "We tested 15+ farmhouse bathroom vanities and picked the 7 best. Barn door, rustic wood, and shaker styles from $219 to $499. Updated March 2026.",
-    "image": "images/hero-best-farmhouse-bathroom-vanities.jpg",
+    "image": "images/hero-best-farmhouse-bathroom-vanities.webp",
     "date": "2026-03-10",
     "category": "Roundup",
     "featured": false,
     "readingTime": "13 min",
-    "summary": "We tested 15+ farmhouse bathroom vanities and picked the 7 best. Barn door, rustic wood, and shaker styles from $219 to $499. Updated March 2026."
+    "summary": "We tested 15+ farmhouse bathroom vanities and picked the 7 best. Barn door, rustic wood, and shaker styles from $219 to $499. Updated March 2026.",
+    "template": "roundup"
   },
   {
     "slug": "how-to-install-bathroom-vanity",
@@ -120,7 +129,8 @@
     "category": "Guide",
     "featured": false,
     "readingTime": "14 min",
-    "summary": "Complete bathroom vanity installation guide. Plumbing, wall mounting, countertop alignment — DIY steps, tools list, and mistakes to avoid. Updated 2026."
+    "summary": "Complete bathroom vanity installation guide. Plumbing, wall mounting, countertop alignment — DIY steps, tools list, and mistakes to avoid. Updated 2026.",
+    "template": "how-to"
   },
   {
     "title": "Best Small Bathroom Vanity 18-20 Inch: Top 5 Compact Picks (2026)",
@@ -168,7 +178,7 @@
     "slug": "best-36-inch-bathroom-vanities",
     "title": "7 Best 36-Inch Bathroom Vanities for Every Style and Budget (2026)",
     "summary": "The 36-inch vanity is the most popular standard size. We tested 7 top picks from ARIEL, T4TREAM, and AMERLIFE for every style and budget.",
-    "image": "images/hero-best-36-inch-bathroom-vanities.jpg",
+    "image": "images/hero-best-36-inch-bathroom-vanities.webp",
     "date": "2026-03-23",
     "publishDate": "2026-03-23",
     "template": "roundup",
@@ -181,7 +191,7 @@
     "title": "7 Best 30-Inch Bathroom Vanities: Top Picks for Every Style (2026)",
     "summary": "7 best 30-inch bathroom vanities tested for build quality, storage, and style. Modern, farmhouse, and floating designs from $189 to $299.",
     "description": "7 best 30-inch bathroom vanities tested for build quality, storage, and style. Modern, farmhouse, and floating designs from $189 to $299.",
-    "image": "images/hero-best-30-inch-bathroom-vanities.jpg",
+    "image": "images/hero-best-30-inch-bathroom-vanities.webp",
     "date": "2026-03-25",
     "publishDate": "2026-03-25",
     "template": "roundup",
@@ -193,7 +203,7 @@
     "title": "Best Bathroom Vanities with Makeup Area: Sit-Down Styles with Storage (2026)",
     "summary": "7 best bathroom vanities with makeup area for sit-down grooming. Wide countertops, drawer storage, and elegant designs from $288 to $1,115.",
     "description": "7 best bathroom vanities with makeup area for sit-down grooming. Wide countertops, drawer storage, and elegant designs from $288 to $1,115.",
-    "image": "images/hero-best-bathroom-vanities-with-makeup-area.jpg",
+    "image": "images/hero-best-bathroom-vanities-with-makeup-area.webp",
     "date": "2026-03-27",
     "publishDate": "2026-03-27",
     "template": "roundup",
