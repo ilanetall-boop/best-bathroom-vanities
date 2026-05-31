@@ -67,7 +67,10 @@
 /index / 301
 /index/ / 301
 
-/best-wall-mounted-bathroom-vanities.html /best-wall-mounted-bathroom-vanities 301
-/best-wall-mounted-bathroom-vanities/ /best-wall-mounted-bathroom-vanities 301
-
-
+# Legacy broken articles (deleted 2026-05-31) — 302 to anchor
+/best-rustic-bathroom-vanities /best-white-bathroom-vanities 302
+/best-rustic-bathroom-vanities/ /best-white-bathroom-vanities 302
+/best-rustic-bathroom-vanities.html /best-white-bathroom-vanities 302
+/best-wall-mounted-bathroom-vanities /best-white-bathroom-vanities 302
+/best-wall-mounted-bathroom-vanities/ /best-white-bathroom-vanities 302
+/best-wall-mounted-bathroom-vanities.html /best-white-bathroom-vanities 302
